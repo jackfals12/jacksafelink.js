@@ -1,0 +1,2 @@
+# jacksafelink.js
+website
